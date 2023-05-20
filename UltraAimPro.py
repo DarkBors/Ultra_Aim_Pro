@@ -3,7 +3,7 @@
 ##                                                                               ##
 ## Ultra96-based PYNQ AI-Managed Performance and Reliability Optimization system ##
 ##                                                                               ##
-##                  Created by: Dark Bors version 0.0.1                          ##
+##                  Created by: Dark Bors version 0.0.2                          ##
 ##                                                                               ##
 ##                                                                 Final Project ##
 ###################################################################################
@@ -58,7 +58,7 @@ class GUI(tk.Tk):
             "##                                                                               ##\n"
             "## Ultra96-based PYNQ AI-Managed Performance and Reliability Optimization system ##\n"
             "##                                                                               ##\n"
-            "##                  Created by: Dark Bors version 1.0.0 - Beta 1                 ##\n"
+            "##                  Created by: Dark Bors version 0.0.2                 ##\n"
             "##                                                                               ##\n"
             "##                                                                 Final Project ##\n"
             "###################################################################################"
